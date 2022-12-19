@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfUI_MVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfUI_MVVM"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="850"
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        Background="Transparent">
+    <Grid>
+        <Border Background="#212529"
+                CornerRadius="20">
+        </Border>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="228"></ColumnDefinition>
+                <ColumnDefinition Width="622"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+        </Grid>
+    </Grid>
+</Window>

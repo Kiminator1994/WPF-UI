@@ -1,0 +1,29 @@
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\WpfUI MVVM.csproj.AssemblyReference.cache
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\WpfUI MVVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\Styles\Button.baml
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\Styles\Image.baml
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\Styles\Page.baml
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\Styles\Text.baml
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\MainWindow.g.cs
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\View\Customer.g.cs
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\View\Home.g.cs
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\View\Orders.g.cs
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\View\Products.g.cs
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\View\Settings.g.cs
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\View\Shipments.g.cs
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\View\Transactions.g.cs
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\App.g.cs
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\WpfUI MVVM_MarkupCompile.cache
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\WpfUI MVVM_MarkupCompile.lref
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\App.baml
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\MainWindow.baml
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\View\Customer.baml
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\View\Home.baml
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\View\Orders.baml
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\View\Products.baml
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\View\Settings.baml
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\View\Shipments.baml
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\View\Transactions.baml
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\WpfUI MVVM.exe
+C:\Users\Koneko\OneDrive\ZBW\Programming advanced\WPF UI\WpfUI MVVM\WpfUI MVVM\obj\Debug\WpfUI MVVM.pdb
